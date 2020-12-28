@@ -1,3 +1,6 @@
+[![GitHub release](https://img.shields.io/github/release/sismics/play-gitlab.svg?style=flat-square)](https://github.com/sismics/play-gitlab/releases/latest)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 # play-gitlab plugin
 
 This plugin adds [Gitlab](https://about.gitlab.com/) support to Play! Framework 1 applications.
@@ -10,7 +13,7 @@ This plugin adds [Gitlab](https://about.gitlab.com/) support to Play! Framework 
 
 ```
 require:
-    - gitlab -> gitlab 1.1.0
+    - gitlab -> gitlab 1.2.0
 
 repositories:
     - sismicsNexusRaw:
